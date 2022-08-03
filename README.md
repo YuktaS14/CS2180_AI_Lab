@@ -40,7 +40,7 @@ In addition to generic backtracking search , here we call AC3 after a variable X
 
 ### How to execute the codes in this project
 
-* To solve Kakuro using generic backtracking search  :<pre>  $ python3 AC3.py \<input file path> \<output file path> </pre>
+* To solve Kakuro using generic backtracking search  :<pre>  $ python3 AC3_BS.py \<input file path> \<output file path> </pre>
 
 * To solve Kakuro using backtracking search with MAC : <pre>  $ python3 MAC_BS.py \<input file path> \<output file path> </pre>
 
